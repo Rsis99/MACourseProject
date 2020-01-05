@@ -815,7 +815,6 @@ bool AdhesionTransform(const char * InBmpName, int radius, const char *OutBmpNam
 	return true;
 }
 
-
 ///ʴ�ϱ任
 bool ErosionTransform(const char *InBmpName, int radius, const char *OutBmpName)
 {
